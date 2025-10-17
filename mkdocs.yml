@@ -1,33 +1,82 @@
+# ============================
+# Once Human Wiki — MkDocs Material
+# ============================
+
 site_name: Once Human Wiki
 site_url: https://francusik.github.io/once-human-wiki/
+site_description: Полная база знаний Once Human
 repo_url: https://github.com/FrancUsik/once-human-wiki
+repo_name: GitHub
+
+nav:
+  - Главная: index.md
+  - База статей:
+      - Обзор: once_human_md/index.md
+
 theme:
   name: material
   language: ru
+
+  # --- Цветовая схема (тёмная по умолчанию) ---
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+    - scheme: default
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+
   features:
     - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
     - navigation.sections
-    - navigation.expand
-    - navigation.footer
     - navigation.indexes
+    - content.code.copy
     - search.suggest
     - search.highlight
-    - content.code.copy
     - toc.integrate
-plugins:
-  - search
-markdown_extensions:
-  - admonition
-  - toc:
-      permalink: true
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.highlight
-nav:
-  - Главная: index.md
-  - База статей: once_human_md/index.md
+    - content.action.edit
+    - content.tabs.link
+
+  icon:
+    logo: material/alien
+    repo: fontawesome/brands/github
+
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/FrancUsik/once-human-wiki
-use_directory_urls: true
+      name: Репозиторий
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.magiclink
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# Пути к контенту
+docs_dir: docs
+site_dir: site
