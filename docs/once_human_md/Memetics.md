@@ -1,0 +1,3 @@
+# Memetics
+
+Redirect to:Memetic

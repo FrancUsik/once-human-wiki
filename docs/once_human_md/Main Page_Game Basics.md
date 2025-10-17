@@ -1,0 +1,4 @@
+# Main Page/Game Basics
+
+GAME BASICS[]
+StoryGameplayAreasResourcesNalcottDeviationsWeaponsArmorToolsFashionVehiclesBuildingFood and WaterBosses &amp; MonstersCharactersMemeticsModsWish Machine

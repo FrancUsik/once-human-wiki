@@ -1,0 +1,3 @@
+# Farming Guides
+
+XPBattlepass XPStarchromAcidGasSproutletsFurniture
