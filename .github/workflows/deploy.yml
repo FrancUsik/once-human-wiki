@@ -31,12 +31,22 @@ jobs:
 
       - name: Generate article index
         run: |
-          mkdir -p docs/once_human_md
-          echo "# База статей Once Human" > docs/once_human_md/index.md
-          for file in $(find docs/once_human_md -type f -name '*.md' | sort); do
-            name=$(basename "$file" .md)
-            echo "- [${name}](./$(basename "$file"))" >> docs/once_human_md/index.md
-          done
+          python - << 'PY'
+          import os, pathlib, urllib.parse
+
+          root = pathlib.Path('docs/once_human_md')
+          root.mkdir(parents=True, exist_ok=True)
+
+          lines = ['# База статей Once Human', '']
+          for p in sorted(root.glob('*.md'), key=lambda x: x.name.lower()):
+              if p.name.lower() == 'index.md':
+                  continue
+              title = p.stem
+              url = './' + urllib.parse.quote(p.name)   # экранируем пробелы и спецсимволы
+              lines.append(f'- [{title}]({url})')
+
+          (root / 'index.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
+          PY
 
       - name: Build site
         run: mkdocs build --site-dir site
