@@ -10,20 +10,37 @@ permissions:
   pages: write
   id-token: write
 
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+
       - name: Install MkDocs Material
         run: pip install mkdocs mkdocs-material pymdown-extensions
+
+      - name: Generate article index
+        run: |
+          mkdir -p docs/once_human_md
+          echo "# База статей Once Human" > docs/once_human_md/index.md
+          for file in $(find docs/once_human_md -type f -name '*.md' | sort); do
+            name=$(basename "$file" .md)
+            echo "- [${name}](./$(basename "$file"))" >> docs/once_human_md/index.md
+          done
+
       - name: Build site
         run: mkdocs build --site-dir site
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
