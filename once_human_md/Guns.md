@@ -1,0 +1,3 @@
+# Guns
+
+Redirect to:Weapons

@@ -1,0 +1,3 @@
+# Wood
+
+Redirect to:Log

@@ -1,0 +1,9 @@
+# Regional Records/Alkirk
+
+Regional Records/Alkirk[]
+Excerpt from Rediscovered
+By Denise Cooper
+Alkirk must have been a bustling little town at one point. Its fate was sealed the day that Monolith rose from the ground. I can almost imagine the blue and purple stardust spilling out from the Monolith on the day of the Starfall. The town, swallowed up by wave after wave... Most of Alkirk's residents would have simply perished in their sleep.
+...Our previous records are wrong. Upon entering the town, we discovered that the plague of Stardust had been tormenting Alkirk's residents even BEFORE the Starfall. The residents had seen the early warning signs. They didn't understand them, but they were scared, that much was clear. Rosetta had the town by the neck by the time they built their Monolith. It seems that the townsfolk were forbidden from telling the outside world about the Monolith, or any of the Deviations they were starting to experience.
+That was all ten years ago, and the Stardust has mostly dissipated now, but the inhabitants of of Alkirk have been irrevocably transformed. We had to wipe out some of these "inhabitants' when we first arrived, for the safety of our camp. Our expedition partly is a highly experienced, highly skilled bunch, and yet, picking off a few of the roaming Deviants who come too close to our camp was the best we could manage. We prevented a full-scale onslaught, but the place remains infested with Deviants.
+We've just set out from Blackfell. We haven't encountered any survivors so far, but this is absolutely to be expected. As I keep telling my troops - no reason to be discouraged. None at all... we're heading south right now. I refuse to believe that humanity has been completely swallowed up by Stardust here. There must be someone out here, still clinging to life.

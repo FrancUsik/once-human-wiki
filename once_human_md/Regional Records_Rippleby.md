@@ -1,0 +1,8 @@
+# Regional Records/Rippleby
+
+Regional Records/Rippleby[]
+Excerpt from Rediscovered
+By Denise Cooper
+On our third loop of the island, the expedition was finally able to go deeper into the legendary town of Rippleby. Thomas is from Rippleby - I heard that from someone else, mind you, not the man himself. The last time we passed through here, the place was teeming with Deviants. It was out of consideration for Thomas that we waited this long to venture into the town. As it turns out, Thomas has been to Nalcott before, as part of one of the earliest geographical research teams. He'd probably make a much better expedition leader than me...
+It seems that the Deviants have been cleared out since the last time we were here, although it's not clear whether this was the work Rosetta, or those bandits. There's not much here anymore - just some empty factories, run-down homes and a trashed supermarket. The old Rippleby is long gone, that's for sure. The Union has a few members form Rippleby, and according to them, this town used to be the most beautiful town on the lower reaches of the Iron River. Then, the town's mayor came to an arrangement with Rosetta. Rippleby's factories, market and bustling fishing port all benefited from Rosetta's deep pockets, and the town began to grow rapidly.
+Standing here now, though, it's hard to believe that this place had ever really been prosperous. Tonight the expedition will camp out inside one of the town's old houses. It's been a long time since I slept in a real bed. Unfortunately, it seems that the last group to pass through here (it's unclear whether they were human survivors, Rosetta soldiers, or bandits) have already picked through every home, but it seems there isn't a scrap of food left in the whole town.

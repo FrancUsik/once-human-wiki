@@ -1,0 +1,3 @@
+# NPC
+
+Redirect to:Characters

@@ -1,0 +1,88 @@
+# Test Subject Top
+
+Test Subject Top
+
+
+	
+		
+		
+	
+	
+
+
+
+	
+		Armor Type
+	
+	Top
+
+
+
+	
+		Rarity
+	
+	Normal
+
+
+
+	
+		Style
+	
+	Beyonder
+
+
+
+	
+		Durability
+	
+	100
+
+
+	Stats
+
+	
+	
+	
+	
+		
+		
+			HP
+		
+			Pollution Resist
+		
+			Psi Intensity
+		
+		
+	
+	
+	
+	
+	
+		109
+	
+		12
+	
+		8
+	
+	
+	
+
+
+
+
+
+
+	Armor Features
+
+
+	
+	1 - Pollution Resist +15.2 - HP +300.3 - Melee DMG Bonus +10%.
+
+
+
+
+
+
+
+How to get[]
+Craft at the Gear Workbench.

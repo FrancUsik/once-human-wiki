@@ -1,0 +1,9 @@
+# Remnants/Dangerous Journey
+
+Dangerous Journey[]
+Gerard Kenan, the Union Courier
+The Boss's Playground, Northeast Chalk Peak
+March 20, ▮▮38
+Hello? Is anyone getting this...? I'm Gerard... Gerard Kenan, a courier from the Union... I've been kidnapped...
+I was on my way back east from Tall Grass, when several bandits... they attacked me... They were too fast, and before I realized it, they started shooting... And when I woke up, I found myself here... I don't know where I am, and I don't know what they'll do to me...
+Luckily, I hid this mobile phone in my boot, and they didn't take it off me. But there's no signal here... All I can do for now is leave a message... If... if anyone sees this, please rescue me... or go to Tall Grass and tell the Union...
